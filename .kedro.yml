@@ -1,0 +1,6 @@
+context_path: johnny_first_kedro.run.ProjectContext
+project_name: "Johnny-first-kedro"
+project_version: "0.16.5"
+package_name: "johnny_first_kedro"
+hooks:
+  - johnny_first_kedro.hooks.project_hooks
